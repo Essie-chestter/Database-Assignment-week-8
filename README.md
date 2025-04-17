@@ -192,5 +192,5 @@ This is a simple RESTful API for managing tasks. It allows users to create, read
     * Example: `/tasks/1`
     * Response: `204 No Content`
 
-## ERD (Conceptual)
+
 
